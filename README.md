@@ -1,4 +1,4 @@
-# 🗜️ Huffman Data Compressor (Greedy Algorithm Analysis)
+# 🗜️ Huffman Data Compressor (Greedy Algorithm Analysis) 
 
 A Java benchmarking application that implements Huffman Coding from scratch to compress text data and measures its efficiency against a standard Fixed-Length baseline encoding scheme.
 
